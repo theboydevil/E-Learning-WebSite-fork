@@ -56,36 +56,36 @@ var data = {
             ""]},
     "Social Science": {
         "Introduction":[
-            "",
+            "https://www.youtube.com/embed/kUApnFN2vGk?si=EPDLhEkOl9AFNGR2",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""],
         "Politics":[
-            "",
+            "https://www.youtube.com/embed/DhdRJHovAaU?si=dh1qEr4ocDgHU9Ra",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""],
         "Sociology":[
-            "",
+            "https://www.youtube.com/embed/YnCJU6PaCio?si=aG4QIlyGDA2rdJe0",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""],
         "Economics":[
-            "",
+            "https://www.youtube.com/embed/dVTNmSmUo14?si=hXrMwF5cQHzrJEmI",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""]},
     "Hindi":{
         "Introduction":[
-            "",
+            "https://www.youtube.com/embed/WkgdcOSsbCc?si=oJLG7B5bzm05F82o",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""],
         "History":[
-            "",
+            "https://www.youtube.com/embed/17xCC1eMNdw?si=i1QUPNb7T2Er4QOM",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""],
         "Literature":[
-            "",
+            "https://www.youtube.com/embed/MreiJ7Y1B9o?si=ZAdanADmXGbH6pfb",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""],
         "Philosophy":[
-            "",
+            "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ab obcaecati natus. Voluptate quae sunt molestiae officiis doloribus, ex ut. Nobis nihil consequatur inventore harum sint nam cum non a illo quasi, natus tempora vel quis. Reprehenderit dignissimos quos id odio corrupti impedit repellat officiis dolor facilis laudantium ut, quae ad provident animi vitae harum repellendus perspiciatis consectetur quam? Totam, porro praesentium officiis distinctio corrupti commodi aperiam optio laudantium nam quisquam autem odio exercitationem necessitatibus at nihil unde perspiciatis hic. Doloribus cupiditate nesciunt excepturi vero voluptatem, qui fuga facilis ullam deserunt esse dolorem quidem porro explicabo. Quasi velit iure eos ducimus perspiciatis magni ab, alias, repellat consequatur, sit culpa consequuntur. Error qui quisquam vel cupiditate libero similique pariatur minima sequi dolore id odit illo, quos fugit ad alias nam? Voluptatibus magni illum accusantium corrupti rem, expedita, dolorum eligendi maxime, quas atque possimus aliquid ex consequuntur consequatur sapiente tempore unde eos.",
             ""]}
 };
@@ -102,7 +102,7 @@ function home(){
             <img src="./images/${i}${".jpg"||".png"||".jpeg"}" alt="">
         </div>
         <div class="text">
-            <h3>
+            <h3 class="animate">
                 ${i}
             </h3>
         </div>
