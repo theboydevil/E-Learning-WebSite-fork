@@ -1,10 +1,16 @@
+:root{
+    --width-sidebar: 280px;
+}
+
 *{
     margin:0;
     padding: 0;
     text-decoration: none;
     list-style: none;
     border: 0;
+    user-select: none;
 }
+
 ::-webkit-scrollbar{
     display: none;
 }
@@ -12,7 +18,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
     display: grid;
-    grid-template-columns: 280px auto;
+    grid-template-columns: var(--width-sidebar) auto;
     width: 100vw;
     min-width: 280px;
     height: 100vh;
@@ -22,6 +28,7 @@ body{
     width: 32px;
     height: 32px;
     display: none;
+    cursor: pointer;
 }
 #menu img{
     width: 100%;
@@ -29,6 +36,8 @@ body{
 }
 #sidebar{
     width: 100%;
+    max-width: 480px;
+    min-width: 230px;
     background-color: #404040;
     color:#ffffff;
 }
@@ -184,6 +193,12 @@ body{
     cursor: pointer;
 }
 
+.start{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
 .end{
     display: flex;
     align-items: center;
