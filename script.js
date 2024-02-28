@@ -88,6 +88,7 @@ var data = {
             "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
             "Hindu philosophy consists of six orthodox schools of thought (shad-darśana): Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta. These are called the āstika philosophical traditions (i.e. those that accept the Vedas as an authoritative, important source of knowledge). Indian philosophy during the ancient and medieval periods also yielded philosophical systems that share concepts with āstika traditions, but rejected the Vedas; these have been called nāstika (heterodox or non-orthodox) philosophies, they include: Buddhism, Jainism, Chārvāka, Ājīvika, and others, which are thus classified under Indian but not Hindu philosophy.",
             ""]}
+            
 };
 
 function home(){
@@ -114,7 +115,7 @@ function home(){
             element.addEventListener("click", function(){
                 window.location.hash=element.id;
                 sub(element.id);
-                // console.log(element.id);
+
             });
         }
     );
@@ -187,5 +188,5 @@ window.onload = function(){
     front_page();
 }
 window.addEventListener('hashchange', function (e) {
-    front_page();  
+    front_page();
 });
