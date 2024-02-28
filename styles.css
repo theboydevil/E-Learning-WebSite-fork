@@ -103,10 +103,7 @@ body{
     color: #ffffff;
     font-size: 20px;
     font-weight: 600;
-    
 }
-
-
 @keyframes slide_text{
     0%{
         transform: translateX(0%);
