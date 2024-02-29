@@ -141,60 +141,60 @@ var data = {
 
   "English": {
     "Introduction": [
-      "https://www.youtube.com/embed/WkgdcOSsbCc?si=oJLG7B5bzm05F82o",
+      "https://www.youtube.com/embed/Eu1rR0wSgP4?si=43JFB9X1B04n4jBD",
       "Welcome to the world of English, kids! It's a language full of adventures in reading, writing, and speaking. Let's learn letters, sounds, and words together. Discover stories that take us to magical lands. With English, we can communicate with friends from all around the globe. Let's embark on this exciting journey!",
     ],
     "Storytelling": [
-      "https://www.youtube.com/embed/17xCC1eMNdw?si=i1QUPNb7T2Er4QOM",
+      "https://www.youtube.com/embed/YKqh4T5265A?si=JgMx_-lsuYnhMP-1",
       "Once upon a time, in a faraway land, brave heroes embarked on epic quests. They battled dragons, solved mysteries, and discovered hidden treasures. With every twist and turn, they taught us lessons of courage, friendship, and hope. Let your imagination soar as you create your own magical tales!",
     ],
     "Reading Comprehension": [
-      "https://www.youtube.com/embed/MreiJ7Y1B9o?si=ZAdanADmXGbH6pfb",
+      "https://www.youtube.com/embed/10wZ2q3KkJM?si=6QYyMaNDoe6O6QvH",
       "Reading comprehension is understanding what you read, kids! Start by reading a story or article. Ask questions like who, what, when, where, why, and how. Summarize the main idea and key details. Make connections to your own life. Practice makes perfect, so keep reading and exploring new worlds!",
     ],
     "Vocabulary Building": [
-      "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
+      "https://www.youtube.com/embed/xRSmuvJZf_Y?si=sIWng1PMAO7aN3yy",
       "Expand your word power, kids! Vocabulary building is like collecting treasures. Read books, explore new topics, and use a dictionary. Play word games like Scrabble or word puzzles. Make flashcards with new words and their meanings. With each word learned, your world grows bigger and more exciting!",
     ],
     "Grammar Games": [
-      "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
+      "https://www.youtube.com/embed/yQTqDVCgTP0?si=1Lfz3cEI9FkLdl5q",
       "Let's play with words, kids! Grammar games make learning fun. Try sentence scrambles to put words in the right order. Find nouns, verbs, and adjectives in a scavenger hunt. Practice punctuation with a game of punctuation bingo. With laughter and games, we'll become grammar experts in no time!",
     ],
   },
 
   "Physical Education": {
     "Sports Basics": [
-      "https://www.youtube.com/embed/WkgdcOSsbCc?si=oJLG7B5bzm05F82o",
+      "https://www.youtube.com/embed/DIcGYo8nZr4?si=fOaQ8ccayIEIzXFU",
       "Hey young athletes! Sports are all about fun and teamwork. Learn the basics like throwing, catching, and kicking. Practice dribbling a ball or swinging a bat. Stay active and healthy while making new friends. Whether it's soccer, basketball, or swimming, let's play fair and have a blast together!",
     ],
     "Fitness Challenges": [
-      "https://www.youtube.com/embed/17xCC1eMNdw?si=i1QUPNb7T2Er4QOM",
+      "https://www.youtube.com/embed/w7OFvNZaP-I?si=aPYeDiNLy8HFfGXb",
       "Get moving, kids! Challenge yourself with fun fitness activities. See how many jumping jacks you can do in a minute. Try balancing on one foot or holding a plank position. Go for a bike ride or a nature walk. Stay active and strong – you're capable of amazing things!",
     ],
     "Outdoor Activities": [
-      "https://www.youtube.com/embed/MreiJ7Y1B9o?si=ZAdanADmXGbH6pfb",
+      "https://www.youtube.com/embed/OKk41_LYvlI?si=dicJx1ru9OEoag2y",
       "Let's explore the great outdoors, kids! Go for a hike and discover nature's wonders. Build forts or have a picnic in the park. Play tag, hide-and-seek, or kickball with friends. Don't forget to splash in puddles on rainy days! Outdoor adventures await – let's make memories together!",
     ],
     "Team Building Games": [
-      "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
+      "https://www.youtube.com/embed/lcv4n9qK6ZQ?si=H95Tk_I0zMtIzNCC",
       "Team up, kids! Team building games are super fun. Try the human knot, where you untangle yourselves as a group. Or play a trust fall game to build confidence. Relay races and scavenger hunts encourage teamwork and communication. With laughter and cooperation, we'll become an unbeatable team!",
     ],
     "Sportsmanship and Fair Play": [
-      "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
+      "https://www.youtube.com/embed/A085f7AiL_k?si=vIrmcMBvuijOGUPz",
       "Hey champions! Sportsmanship means playing fair, respecting opponents, and cheering for everyone. Win or lose, it's how you play that counts. Shake hands, congratulate others, and never give up! Remember, teamwork and kindness make sports fun for everyone. Let's show good sportsmanship and make every game a win-win!",
     ],
   },
   "Computer Science": {
     "Introduction to Computers": [
-      "https://www.youtube.com/embed/WkgdcOSsbCc?si=oJLG7B5bzm05F82o",
+      "https://www.youtube.com/embed/-AP1nNK3bRs?si=qfn7ON4QC7weTQh0",
       "Computers are amazing machines that can do all sorts of cool stuff! They help us play games, learn new things, and talk to friends. Inside, they have parts like a brain (CPU), memory (RAM), and a storage space (hard drive). Let's explore the wonderful world of computers together!",
     ],
     "Coding Basics": [
-      "https://www.youtube.com/embed/17xCC1eMNdw?si=i1QUPNb7T2Er4QOM",
+      "https://www.youtube.com/embed/eKqY-oP1d_Y?si=TrssTw8YfztlpyKJ",
       "Hey young coders! Coding is like giving instructions to computers using special languages. Start with simple commands like 'move forward' or 'turn left.' Practice makes perfect, so keep trying! With coding, you can create games, apps, and websites. Let's explore the amazing world of programming together!",
     ],
     "Robotics": [
-      "https://www.youtube.com/embed/MreiJ7Y1B9o?si=ZAdanADmXGbH6pfb",
+      "https://www.youtube.com/embed/htjRUL3neMg?si=AotopH0P92D6zIY0",
       "Hey kids, let's dive into robotics! Robots are like super-smart helpers. They can move, talk, and even learn from us! Sensors help them sense the world around them, like eyes and ears. With coding, we tell them what to do. Imagine all the cool things we can build together!",
     ],
     "Computer Hardware Exploration": [
