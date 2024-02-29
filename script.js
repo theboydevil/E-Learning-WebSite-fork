@@ -198,11 +198,11 @@ var data = {
       "Hey kids, let's dive into robotics! Robots are like super-smart helpers. They can move, talk, and even learn from us! Sensors help them sense the world around them, like eyes and ears. With coding, we tell them what to do. Imagine all the cool things we can build together!",
     ],
     "Computer Hardware Exploration": [
-      "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
+      "https://www.youtube.com/embed/d86ws7mQYIg?si=G_Q9dHIXfz5q2o76",
       "Let's explore computer hardware, kids! The CPU is the brain, RAM is like short-term memory, and the hard drive stores everything. Graphics cards make games look awesome! Keyboards and mice help us communicate. Remember to handle electronics gently and explore with curiosity. Who knows, you might be a future tech genius!",
     ],
     "Cybersecurity Awareness": [
-      "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
+      "https://www.youtube.com/embed/inWWhr5tnEA?si=3yfHi0YQKcV5kTPs",
       "Stay safe online, kids! Never share personal information or passwords. Be careful with emails and messages from strangers. Use strong passwords and update them often. Always ask a trusted adult before downloading anything. Remember, what you post online stays forever. Be cyber-smart and protect yourself!",
     ],
   },
@@ -428,6 +428,11 @@ document.addEventListener('touchcancel', () => {
     }
 });
 
+document.addEventListener('touchcancel', () => {
+    if (isResizing) {
+        isResizing = false;
+    }
+});
 sidebar.addEventListener("mouseenter", function(e) {
     const sidebarWidth = parseInt(sidebar.offsetWidth);
     const mousePosition = e.clientX;
