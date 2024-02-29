@@ -23,6 +23,11 @@ var data = {
       "Probability defines the likelihood of occurrence of an event. There are many real-life situations in which we may have to predict the outcome of an event. We may be sure or not sure of the results of an event. In such cases, we say that there is a probability of this event to occur or not occur. Probability generally has great applications in games, in business to make predictions, and also it has extensive applications in this new area of artificial intelligence.",
       "",
     ],
+    "Data analysis": [
+      "https://youtube.com/embed/SxXsxCsZ59I?si=KQWNHd1VOLXH48qr",
+      "Data analysis involves introducing data concepts through simple surveys or observations. Students learn to organize data in tables, interpret it for patterns, and represent it visually using bar graphs or pictographs. This hands-on approach fosters basic analytical skills and understanding of data interpretation.",
+      "",
+    ],
     
   },
   "Science": {
@@ -46,6 +51,11 @@ var data = {
       "Physics, science that deals with the structure of matter and the interactions between the fundamental constituents of the observable universe. In the broadest sense, physics (from the Greek physikos) is concerned with all aspects of nature on both the macroscopic and submicroscopic levels. Its scope of study encompasses not only the behaviour of objects under the action of given forces but also the nature and origin of gravitational, electromagnetic, and nuclear force fields. Its ultimate objective is the formulation of a few comprehensive principles that bring together and explain all such disparate phenomena.",
       "",
     ],
+    "Energy": [
+      "https://www.youtube.com/embed/CW0_S5YpYVo?si=QGSexfcY-lmW-oaH",
+      "Energy is the capacity to do work or produce heat. It exists in various forms such as kinetic energy (energy of motion), potential energy (stored energy), thermal energy (heat energy), chemical energy (energy stored in bonds of atoms and molecules), and more. Energy can transform from one form to another but is always conserved. Understanding energy is crucial in explaining natural phenomena and technological advancements.",
+      "",
+    ]
   },
   "Punjabi": {
     "Introduction": [
@@ -68,6 +78,11 @@ var data = {
       "The major activity of the department of Philosophy is primarily related to teaching and research apart from organizing and participating in the academic programmes such as seminars, conferences, workshops, training programmes for the students as well as the teachers. The main thrust in teaching and research is on Classical and Modern Indian Philosophy, Western Philosophy, Philosophy of Culture, Applied Ethics and Philosophy of Sikhism.The faculty members of the Department are actively involved in guiding research work at the Ph.D. level, as well as doing research themselves. The teachers have participated and presented papers in national and international conferences and Seminars.To strengthen the existing curriculum, the Department has started new Courses on Applied Ethics, Bio-Ethics and Environmental Philosophy.",
       "",
     ],
+    "Culture": [
+      "https://www.youtube.com/embed/nc3bH3os_Ig?si=1-PGFiHCBI3m3GJE",
+      "Punjabi culture, rooted in the Punjab region of South Asia, is celebrated for its vibrant traditions. The language, Punjabi, expressed through the Gurmukhi script, is integral to its identity. Bhangra and Giddha dance forms, accompanied by lively music, embody the spirit of celebration. Rich and flavorful Punjabi cuisine, like Sarson da Saag and Butter Chicken, delights palates worldwide, reflecting the warmth and hospitality of its people..",
+      "",
+    ]
   },
   "Social Science": {
     "Introduction": [
@@ -90,6 +105,11 @@ var data = {
       "Economics is a social science that focuses on the production, distribution, and consumption of goods and services. The study of economics is primarily concerned with analyzing the choices that individuals, businesses, governments, and nations make to allocate limited resources. Economics has ramifications on a wide range of other fields, including politics, psychology, business, and law.",
       "",
     ],
+    "History": [
+      "https://www.youtube.com/embed/SOXZP_dH-w4?si=LliRg-syoCPb7u2a",
+      "History, the study of the past, illuminates the human journey through time. It encompasses the rise and fall of civilizations, pivotal events, and the evolution of societies, shaping our present and future. From ancient empires like Egypt and Rome to transformative periods like the Renaissance and Industrial Revolution, history offers valuable lessons, insights, and perspectives. By understanding our collective past, we gain a deeper appreciation of our shared humanity and the forces that have shaped our world.",
+      "",
+    ],
   },
   "Hindi": {
     "Introduction": [
@@ -110,6 +130,11 @@ var data = {
     "Philosophy": [
       "https://www.youtube.com/embed/vCEDptvB5Q4?si=OqOHSD22ykIvUfz2",
       "Hindu philosophy consists of six orthodox schools of thought (shad-darśana): Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta. These are called the āstika philosophical traditions (i.e. those that accept the Vedas as an authoritative, important source of knowledge). Indian philosophy during the ancient and medieval periods also yielded philosophical systems that share concepts with āstika traditions, but rejected the Vedas; these have been called nāstika (heterodox or non-orthodox) philosophies, they include: Buddhism, Jainism, Chārvāka, Ājīvika, and others, which are thus classified under Indian but not Hindu philosophy.",
+      "",
+    ],
+    "Culture": [
+      "https://www.youtube.com/embed/zP1Z8ftmOyg?si=m7U6qAlTPjfcpaDc",
+      "Hindi culture is a rich tapestry woven with vibrant traditions, art, and customs. Rooted in ancient civilization, it celebrates diversity through festivals like Diwali, Holi, and Raksha Bandhan. Hindi literature, with illustrious figures like Premchand and Kabir, reflects profound philosophies and societal values. Traditional attire like sarees and kurta-pajamas epitomize elegance. Music and dance forms like Kathak and Bollywood underscore the cultural vibrancy, echoing the essence of Hindi culture worldwide.",
       "",
     ],
   },
@@ -162,7 +187,7 @@ var data = {
   "Computer Science": {
     "Introduction to Computers": [
       "https://www.youtube.com/embed/WkgdcOSsbCc?si=oJLG7B5bzm05F82o",
-      "Hi kids! Computers are amazing machines that can do all sorts of cool stuff! They help us play games, learn new things, and talk to friends. Inside, they have parts like a brain (CPU), memory (RAM), and a storage space (hard drive). Let's explore the wonderful world of computers together!",
+      "Computers are amazing machines that can do all sorts of cool stuff! They help us play games, learn new things, and talk to friends. Inside, they have parts like a brain (CPU), memory (RAM), and a storage space (hard drive). Let's explore the wonderful world of computers together!",
     ],
     "Coding Basics": [
       "https://www.youtube.com/embed/17xCC1eMNdw?si=i1QUPNb7T2Er4QOM",
@@ -182,17 +207,16 @@ var data = {
     ],
   },
 };
-
-function home() {
-  m_e.getElementsByTagName("h1")[0].innerText = "SUBJECTS";
-  m_e.getElementsByTagName("div")[0].innerHTML = "";
-  m_e.getElementsByTagName("div")[0].style.display = "grid";
-  m_e.getElementsByTagName("div")[0].style.height = "";
-  for (const i in data) {
-    var ele = `
+function home(){
+    m_e.getElementsByTagName("h1")[0].innerText = "SUBJECTS";
+    m_e.getElementsByTagName("div")[0].innerHTML="";
+    m_e.getElementsByTagName("div")[0].style.display="grid";
+    m_e.getElementsByTagName("div")[0].style.height="";
+    for (const i in data) {
+        var ele = `
         <div class="items" id="${i}">
         <div class="img">
-            <img src="./images/${i}${".jpg" || ".png" || ".jpeg"}" alt="">
+            <img src="./images/${i}${".jpg"||".png"||".jpeg"}" alt="">
         </div>
         <div class="text">
             <h3 class="animate">
@@ -200,51 +224,51 @@ function home() {
             </h3>
         </div>
     `;
-    m_e.getElementsByTagName("div")[0].innerHTML += ele;
-  }
-  Array.from(m_e.getElementsByClassName("items")).forEach((element) => {
-    element.addEventListener("click", function () {
-      window.location.hash = element.id;
-      sub(element.id);
-      // console.log(element.id);
-    });
-  });
+    m_e.getElementsByTagName("div")[0].innerHTML+=ele;
+    }
+    Array.from(m_e.getElementsByClassName("items")).forEach(
+        element => {
+            element.addEventListener("click", function(){
+                window.location.hash=element.id;
+                sub(element.id);
+                // console.log(element.id);
+            });
+        }
+    );
 }
 
 function quizz(el) {
-  console.log(el);
+    console.log(el);
 }
 function topic(el) {
-  var e = el.split("-");
-  m_e.getElementsByTagName("h1")[0].innerText = e[1];
-  m_e.getElementsByTagName("div")[0].innerHTML = "";
-  m_e.getElementsByTagName("div")[0].style.display = "block";
-  m_e.getElementsByTagName("div")[0].style.height = "100%";
-  var ele = `
+    var e = el.split("-");
+    m_e.getElementsByTagName("h1")[0].innerText = e[1];
+    m_e.getElementsByTagName("div")[0].innerHTML="";
+    m_e.getElementsByTagName("div")[0].style.display="block";
+    m_e.getElementsByTagName("div")[0].style.height="100%";
+    var ele =`
         <div class="topic">
-        <iframe src="${
-          data[e[0]][e[1]][0]
-        }" title="What is Science? | Introduction To Science | Definition of science | Types of science | Letstute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="${data[e[0]][e[1]][0]}" title="What is Science? | Introduction To Science | Definition of science | Types of science | Letstute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <div class="topic-text"><p>${data[e[0]][e[1]][1]}</p></div>
         <button type="button" onclick='quizz("${e}")')>Quizz</button>
         </div>
     `;
-  m_e.getElementsByTagName("div")[0].innerHTML += ele;
-  // console.log(e);
+    m_e.getElementsByTagName("div")[0].innerHTML+=ele;
+    // console.log(e);
 }
-function sub(e) {
-  e = e.replaceAll("%20", " ");
-  if (e.includes("/")) {
-    topic(e.replace("/", "-"));
-    return;
-  }
-  m_e.getElementsByTagName("h1")[0].innerText = e;
-  m_e.getElementsByTagName("div")[0].innerHTML = "";
-  m_e.getElementsByTagName("div")[0].style.display = "grid";
-  m_e.getElementsByTagName("div")[0].style.height = "";
-  // for(var x=0; x<30; x++){
-  for (const i in data[e]) {
-    var ele = `
+function sub(e){
+    e=e.replaceAll("%20"," ");
+    if(e.includes("/")){
+        topic(e.replace("/","-"));
+        return;
+    }
+    m_e.getElementsByTagName("h1")[0].innerText = e;
+    m_e.getElementsByTagName("div")[0].innerHTML="";
+    m_e.getElementsByTagName("div")[0].style.display="grid";
+    m_e.getElementsByTagName("div")[0].style.height="";
+// for(var x=0; x<30; x++){
+    for (const i in data[e]) {
+        var ele = `
         <div class="items" id="${i}">
         <div class="img">
             <img src="./images/${e}/${i}.jpg" alt="">
@@ -255,200 +279,197 @@ function sub(e) {
             </h3>
         </div>
     `;
-    m_e.getElementsByTagName("div")[0].innerHTML += ele;
-  }
-  // }
-  Array.from(m_e.getElementsByClassName("items")).forEach((element) => {
-    element.addEventListener("click", function () {
-      window.location.hash = e + "/" + element.id;
-      // console.log(element.id);
-    });
-  });
-}
-
-function front_page() {
-  if (window.location.hash === "") {
-    home();
-  } else {
-    sub(window.location.hash.split("#")[1]);
-  }
-}
-
-window.onload = function () {
-  front_page();
-};
-window.addEventListener("hashchange", function (e) {
-  front_page();
-});
-
-function search() {
-  var input, filter, ul, li, a, i, txtValue;
-  input = document.getElementById("search-input");
-  filter = input.value.toUpperCase();
-  ul = document.getElementById("list");
-  li = ul.getElementsByClassName("items");
-  for (i = 0; i < li.length; i++) {
-    a = li[i].getElementsByTagName("h3")[0];
-    txtValue = a.textContent || a.innerText;
-    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-      li[i].style.display = "";
-    } else {
-      li[i].style.display = "none";
+    m_e.getElementsByTagName("div")[0].innerHTML+=ele;
     }
-  }
+// }
+    Array.from(m_e.getElementsByClassName("items")).forEach(
+        element => {
+            element.addEventListener("click", function(){
+                window.location.hash=e+'/'+element.id;
+                // console.log(element.id);
+            });
+        }
+    );
 }
 
-document.getElementById("search-input").addEventListener("keyup", function () {
-  // console.log("searching");
-  search();
+function front_page(){
+    if(window.location.hash === ''){
+        home();
+    } else{
+        sub(window.location.hash.split("#")[1]);
+    }
+}
+
+window.onload = function(){
+    front_page();
+}
+window.addEventListener('hashchange', function (e) {
+    front_page();  
 });
 
-const sidebar = document.getElementById("sidebar");
+function search(){
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById('search-input');
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("list");
+    li = ul.getElementsByClassName('items');
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("h3")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+
+document.getElementById("search-input").addEventListener("keyup", function(){
+    // console.log("searching");
+    search();
+});
+
+
+const sidebar = document.getElementById('sidebar');
 const root = document.documentElement;
-const widthSidebar = getComputedStyle(root).getPropertyValue("--width-sidebar");
+const widthSidebar = getComputedStyle(root).getPropertyValue('--width-sidebar');
 let isResizing = false;
 let startX;
 
-sidebar.addEventListener("mousedown", (e) => {
-  isResizing = true;
-  startX = e.clientX;
-});
-
-document.addEventListener("mousemove", (e) => {
-  if (isResizing) {
-    const newWidth = sidebar.offsetWidth + e.clientX - startX;
-    if (newWidth < 480 && newWidth > 230) {
-      root.style.setProperty("--width-sidebar", ${newWidth}px);
-      document.body.style.setProperty("display", "grid");
-      document.body.style.setProperty(
-        "grid-template-columns",
-        ${newWidth}px auto
-      );
-    } else if (newWidth <= 230) {
-      root.style.setProperty("--width-sidebar", 0);
-      document.body.style.setProperty("display", block);
-      sidebar.style.position = "fixed";
-      sidebar.style.left = "0";
-      sidebar.style.zIndex = "5";
-      sidebar.style.height = "100vh";
-      sidebar.style.width = "280px";
-      sidebar.style.display = "none";
-      document.getElementById("menu").style.display = "block";
-      document.getElementById("front-page").style.width = "100vw";
-    }
-    const range = 5;
-    const mousePosition = e.clientX;
-    const sidebarWidth = parseInt(sidebar.offsetWidth);
-    if (
-      mousePosition >= sidebarWidth - range &&
-      mousePosition <= sidebarWidth + range
-    ) {
-      sidebar.style.cursor = "col-resize";
-    } else {
-      sidebar.style.cursor = "default";
-    }
+sidebar.addEventListener('mousedown', (e) => {
+    isResizing = true;
     startX = e.clientX;
-  }
 });
 
-document.addEventListener("mouseup", () => {
-  isResizing = false;
-});
-
-document.addEventListener("mouseleave", () => {
-  if (isResizing) {
-    isResizing = false;
-  }
-});
-
-sidebar.addEventListener("touchstart", (e) => {
-  isResizing = true;
-  startX = e.touches[0].clientX;
-});
-
-document.addEventListener("touchmove", (e) => {
-  if (isResizing) {
-    const newWidth = sidebar.offsetWidth + e.touches[0].clientX - startX;
-    if (newWidth < 480 && newWidth > 230) {
-      root.style.setProperty("--width-sidebar", ${newWidth}px);
-      document.body.style.setProperty("display", "grid");
-      document.body.style.setProperty(
-        "grid-template-columns",
-        ${newWidth}px auto
-      );
-    } else if (newWidth <= 230) {
-      root.style.setProperty("--width-sidebar", 0);
-      document.body.style.setProperty("display", block);
-      sidebar.style.position = "fixed";
-      sidebar.style.left = "0";
-      sidebar.style.zIndex = "5";
-      sidebar.style.height = "100vh";
-      sidebar.style.width = "280px";
-      sidebar.style.display = "none";
-      document.getElementById("menu").style.display = "block";
-      document.getElementById("front-page").style.width = "100vw";
+document.addEventListener('mousemove', (e) => {
+    if (isResizing) {
+        const newWidth = sidebar.offsetWidth + e.clientX - startX;
+        if(newWidth<480 && newWidth>230){
+            root.style.setProperty('--width-sidebar', `${newWidth}px`);
+            document.body.style.setProperty('display', 'grid');
+            document.body.style.setProperty('grid-template-columns', `${newWidth}px auto`);
+        } else if(newWidth<=230){
+            root.style.setProperty('--width-sidebar', `0`);
+            document.body.style.setProperty('display', `block`);
+            sidebar.style.position = "fixed";
+            sidebar.style.left = "0";
+            sidebar.style.zIndex = "5";
+            sidebar.style.height = "100vh";
+            sidebar.style.width = "280px";
+            sidebar.style.display = "none";
+            document.getElementById("menu").style.display = "block";
+            document.getElementById("front-page").style.width = "100vw";
+        }
+        const range = 5;
+        const mousePosition = e.clientX;
+        const sidebarWidth = parseInt(sidebar.offsetWidth);
+        if (mousePosition >= sidebarWidth - range && mousePosition <= sidebarWidth + range) {
+            sidebar.style.cursor = "col-resize";
+        }
+        else {
+            sidebar.style.cursor = "default";
+        }
+        startX = e.clientX;
     }
+});
+
+document.addEventListener('mouseup', () => {
+    isResizing = false;
+});
+
+document.addEventListener('mouseleave', () => {
+    if (isResizing) {
+        isResizing = false;
+    }
+});
+
+sidebar.addEventListener('touchstart', (e) => {
+    isResizing = true;
     startX = e.touches[0].clientX;
-  }
+}
+);
+
+document.addEventListener('touchmove', (e) => {
+    if (isResizing) {
+        const newWidth = sidebar.offsetWidth + e.touches[0].clientX - startX;
+        if(newWidth<480 && newWidth>230){
+            root.style.setProperty('--width-sidebar', `${newWidth}px`);
+            document.body.style.setProperty('display', 'grid');
+            document.body.style.setProperty('grid-template-columns', `${newWidth}px auto`);
+        } else if(newWidth<=230){
+            root.style.setProperty('--width-sidebar', `0`);
+            document.body.style.setProperty('display', `block`);
+            sidebar.style.position = "fixed";
+            sidebar.style.left = "0";
+            sidebar.style.zIndex = "5";
+            sidebar.style.height = "100vh";
+            sidebar.style.width = "280px";
+            sidebar.style.display = "none";
+            document.getElementById("menu").style.display = "block";
+            document.getElementById("front-page").style.width = "100vw";
+        }
+        startX = e.touches[0].clientX;
+    }
 });
 
-document.addEventListener("touchend", () => {
-  isResizing = false;
-});
-
-document.addEventListener("touchleave", () => {
-  if (isResizing) {
+document.addEventListener('touchend', () => {
     isResizing = false;
-  }
 });
 
-document.addEventListener("touchcancel", () => {
-  if (isResizing) {
-    isResizing = false;
-  }
+document.addEventListener('touchleave', () => {
+    if (isResizing) {
+        isResizing = false;
+    }
 });
 
-sidebar.addEventListener("mouseenter", function (e) {
-  const sidebarWidth = parseInt(sidebar.offsetWidth);
-  const mousePosition = e.clientX;
-
-  const range = 5;
-  // console.warn(mousePosition, sidebarWidth - range, sidebarWidth + range);
-  if (
-    mousePosition >= sidebarWidth - range &&
-    mousePosition <= sidebarWidth + range
-  ) {
-    // console.log("Mouse entered near the sidebar width");
-    sidebar.style.cursor = "col-resize";
-  } else {
-    sidebar.style.cursor = "default";
-  }
+document.addEventListener('touchcancel', () => {
+    if (isResizing) {
+        isResizing = false;
+    }
 });
 
-document.addEventListener("mousemove", function (e) {
-  const sidebarWidth = parseInt(sidebar.offsetWidth);
-  const mousePosition = e.clientX;
+sidebar.addEventListener("mouseenter", function(e) {
+    const sidebarWidth = parseInt(sidebar.offsetWidth);
+    const mousePosition = e.clientX;
 
-  const range = 5;
-  // console.warn(mousePosition, sidebarWidth - range, sidebarWidth + range);
-  if (mousePosition >= sidebarWidth - range) {
-    // console.log("Mouse entered near the sidebar width");
-    sidebar.style.cursor = "col-resize";
-  } else {
-    sidebar.style.cursor = "default";
-  }
+    const range = 5;
+    // console.warn(mousePosition, sidebarWidth - range, sidebarWidth + range);
+    if (mousePosition >= sidebarWidth - range && mousePosition <= sidebarWidth + range) {
+        // console.log("Mouse entered near the sidebar width");
+        sidebar.style.cursor = "col-resize";
+    }
+    else {
+        sidebar.style.cursor = "default";
+    }
 });
 
-document.getElementById("menu").addEventListener("click", function () {
-  document.getElementById("menu").style.display = "none";
-  root.style.setProperty("--width-sidebar", 280px);
-  document.body.style.setProperty("display", "grid");
-  document.body.style.setProperty("grid-template-columns", 280px auto);
-  sidebar.style.display = "block";
-  sidebar.style.removeProperty("position");
-  sidebar.style.removeProperty("left");
-  sidebar.style.removeProperty("z-index");
-  sidebar.style.removeProperty("height");
-  sidebar.style.removeProperty("width");
-  document.getElementById("front-page").style.removeProperty("width");
+document.addEventListener("mousemove", function(e) {
+    const sidebarWidth = parseInt(sidebar.offsetWidth);
+    const mousePosition = e.clientX;
+
+    const range = 5;
+    // console.warn(mousePosition, sidebarWidth - range, sidebarWidth + range);
+    if (mousePosition >= sidebarWidth - range) {
+        // console.log("Mouse entered near the sidebar width");
+        sidebar.style.cursor = "col-resize";
+    }
+    else {
+        sidebar.style.cursor = "default";
+    }
+});
+
+
+
+document.getElementById("menu").addEventListener("click", function(){
+    document.getElementById("menu").style.display = "none";
+    root.style.setProperty('--width-sidebar', `280px`);
+    document.body.style.setProperty('display', 'grid');
+    document.body.style.setProperty('grid-template-columns', `280px auto`);
+    sidebar.style.display = "block";
+    sidebar.style.removeProperty("position");
+    sidebar.style.removeProperty("left");
+    sidebar.style.removeProperty("z-index");
+    sidebar.style.removeProperty("height");
+    sidebar.style.removeProperty("width");
+    document.getElementById("front-page").style.removeProperty("width");
 });
