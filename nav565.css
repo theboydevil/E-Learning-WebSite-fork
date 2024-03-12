@@ -1,0 +1,34 @@
+@media (max-width: 565px){
+    header{
+        position: fixed;
+        top: 0;
+        width: 100vw;
+        z-index: 100;
+    }
+    header h1{
+        font-size: 18px;
+        width: 100%;
+        white-space: nowrap;
+    }
+    .burger{
+        display: block;
+    }
+    nav{
+        display: none;
+        background-color: #a5a5a5;
+        flex-direction: column;
+        position: fixed;
+        top: 69px;
+        left: 0;
+        z-index: 99;
+        transition: all 0.5s ease;
+    }
+
+    nav a{
+        float: none;
+    }
+    section{
+        margin-top: 69px;
+        min-height: calc(100vh - 138px);
+    }
+}
