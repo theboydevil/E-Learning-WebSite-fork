@@ -1,1 +1,1 @@
-[E-Learning-WebSite](https://RajveerSingh711.github.io/E-Learning-WebSite-fork/)
+[E-Learning-WebSite](https://rajveersingh711.github.io/E-Learning-WebSite-fork/)
