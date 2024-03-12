@@ -1,6 +1,3 @@
-body{
-    background: linear-gradient(306deg, rgba(137,30,202,1) 1%, rgba(13,117,88,1) 74%);
-}
 .outer-section{
     width: 100%;
     padding: 50px;
@@ -12,7 +9,7 @@ body{
     border: 2px solid #333;
     border-radius: 10px;
     padding: 15px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.); 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); 
     background-color: #fff;
   }
   .section1{
